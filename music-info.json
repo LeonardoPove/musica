@@ -8,6 +8,42 @@
           "song": "https://raw.githubusercontent.com/LeonardoPove/musica//main/media/1/song.mp3",
           "cover": "https://raw.githubusercontent.com/LeonardoPove/musica/main/media/1/img.jpeg"
         }
+      },
+      {
+        "bg": "#c9bea28f",
+        "artist": "The Kill",
+        "songName": "30 Seconds To Mars",
+        "files": {
+          "song": "https://raw.githubusercontent.com/LeonardoPove/musica//main/media/2/song.mp3",
+          "cover": "https://raw.githubusercontent.com/LeonardoPove/musica/main/media/2/img.jpeg"
+        }
+      },
+      {
+        "bg": "#c9bea28f",
+        "artist": "Evanescence",
+        "songName": "Bring Me To Life",
+        "files": {
+          "song": "https://raw.githubusercontent.com/LeonardoPove/musica//main/media/3/song.mp3",
+          "cover": "https://raw.githubusercontent.com/LeonardoPove/musica/main/media/3/img.jpeg"
+        }
+      },
+      {
+        "bg": "#c9bea28f",
+        "artist": "Coolio",
+        "songName": "Gansta_s Paradise",
+        "files": {
+          "song": "https://raw.githubusercontent.com/LeonardoPove/musica//main/media/4/song.mp3",
+          "cover": "https://raw.githubusercontent.com/LeonardoPove/musica/main/media/4/img.jpeg"
+        }
+      },
+      {
+        "bg": "#c9bea28f",
+        "artist": "Twemty One Pilots",
+        "songName": "Sressed Out",
+        "files": {
+          "song": "https://raw.githubusercontent.com/LeonardoPove/musica//main/media/5/song.mp3",
+          "cover": "https://raw.githubusercontent.com/LeonardoPove/musica/main/media/5/img.jpeg"
+        }
       }
     ]
   }
