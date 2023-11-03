@@ -2,10 +2,10 @@
     "songs": [
       {
         "bg": "#c9bea28f",
-        "artist": "The Weekndd",
-        "songName": "Beauty Behind The Madness Vinyl 2LP",
+        "artist": "The Weeknd",
+        "songName": "Beauty Behind The Madness",
         "files": {
-          "song": "https://github.com/LeonardoPove/musica/raw/main/media/song1.mp3",
+          "song": "https://raw.githubusercontent.com/LeonardoPove/musica//main/media/song1.mp3",
           "cover": "https://raw.githubusercontent.com/LeonardoPove/musica/main/media/The%20Weeknd.jpeg"
         }
       }
