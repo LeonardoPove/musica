@@ -5,8 +5,8 @@
         "artist": "The Weeknd",
         "songName": "Beauty Behind The Madness",
         "files": {
-          "song": "https://raw.githubusercontent.com/LeonardoPove/musica//main/media/song1.mp3",
-          "cover": "https://raw.githubusercontent.com/LeonardoPove/musica/main/media/The%20Weeknd.jpeg"
+          "song": "https://raw.githubusercontent.com/LeonardoPove/musica//main/media/1/song.mp3",
+          "cover": "https://raw.githubusercontent.com/LeonardoPove/musica/main/media/1/img.jpeg"
         }
       }
     ]
